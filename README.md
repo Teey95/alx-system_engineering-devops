@@ -1,1 +1,1 @@
-shell assignment
+Shell permissions
